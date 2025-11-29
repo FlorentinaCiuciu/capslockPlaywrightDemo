@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="9.330251">
+<testsuite name="cost-estimation.spec.ts" timestamp="2025-11-29T16:39:43.337Z" hostname="chromium" tests="1" failures="0" skipped="0" time="8.102" errors="0">
+<testcase name="Cost estimation form validation › @regression Validate required email message" classname="cost-estimation.spec.ts" time="8.102">
+</testcase>
+</testsuite>
+</testsuites>
